@@ -6,7 +6,6 @@ import {
   useSensor,
   useSensors,
   PointerSensor,
-  DragOverlay,
 } from '@dnd-kit/core';
 import { useAppStore, useWidgets, useUIState } from '@/core/state/store';
 import { WidgetRenderer } from './WidgetRenderer';
